@@ -1,1 +1,0 @@
-# FlipBook_RPiT_TeoriKinetikGas
